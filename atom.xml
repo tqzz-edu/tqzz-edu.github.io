@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tqzz-edu.github.io/"/>
-  <updated>2019-04-27T13:01:39.148Z</updated>
+  <updated>2019-04-27T15:10:46.357Z</updated>
   <id>https://tqzz-edu.github.io/</id>
   
   <author>
@@ -17,11 +17,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>陷入困境中行业人员特征</title>
+    <link href="https://tqzz-edu.github.io/2019/04/27/itgzztz/"/>
+    <id>https://tqzz-edu.github.io/2019/04/27/itgzztz/</id>
+    <published>2019-04-27T14:04:27.000Z</published>
+    <updated>2019-04-27T15:10:46.357Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="序"><a href="#序" class="headerlink" title="序"></a>序</h1><p>经过多年的实践经验，在不同的公司，我们发现：</p><ul><li>中小企业的IT员工和BAT的员工具有一定的差距。</li><li>很大部分人职业不稳定，缺乏方向性、浮躁，提现在随意跳槽。</li><li>技能提升存在极端：要么得过且过，对技术没有提升的欲望；要么漫无目的地学习；要么学习跟阶段不相符的内容。</li><li>职业素养相对较散漫。</li></ul><p>#根因分析</p><h2 id="能力"><a href="#能力" class="headerlink" title="能力"></a>能力</h2><p>通过多年的接触、面试经验，我们发现在职业陷入困境的IT员工，其技术能力<strong>深度、广度不够，全局观不够</strong>，提现：</p><ul><li>编程语言基础一般，不够扎实。</li><li>操作系统理论基础不够，进程、硬盘、内存、网络基本知识欠缺.</li><li>多线程编程经验欠缺。</li><li>分布式系统设计、实践深度不够，对典型方案理解不够。</li><li>系统异常处理不够。</li><li>系统架构实践深度不够。</li><li>项目管理能力不够。</li><li>线上问题定位能力欠缺。</li><li>系统链路思考能力欠缺</li></ul><h2 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h2><ul><li><p>工作内容单一：相关的工作内容重复多年（通过面试经验来看，基本都是3、4年以上）。</p></li><li><p>工作内容简单：从事数据库CRUD。</p></li><li><p>工作内容混杂：过早全栈，一会后台开发，一会前段开发。</p></li><li><p>全局不够：很多员工都只是仅仅盯住自己的一亩三分地，对系统上下文理解不够。</p></li></ul><h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><ul><li>没有清晰的目标：提现频繁跳槽。</li><li>浮躁的目标：想从工作中提升技术，自认为不能提升技术（没有体会到企业给工资，第一目标是要让你完成任务），随意跳槽。</li><li>不善于选择：很多人刚开始不善于选择，选择了外包（不是说外包不好），选择了外包提现在实践深度、难度都有所欠缺。</li><li>不切实际的选择：没有算法基础的人，想要立马去从事AI或者技术学习。学习不符合当前阶段的技术、知识（这又可能导致无法深入理解）。</li></ul><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>   以上是我们通过多年的实践经验总结出来，其中有些观点存在一定让人误解（比如不看好外包，那是因为我们在面试来自外包公司的候选者，发现他们在深度、难度、全局 有所欠缺）。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;序&quot;&gt;&lt;a href=&quot;#序&quot; class=&quot;headerlink&quot; title=&quot;序&quot;&gt;&lt;/a&gt;序&lt;/h1&gt;&lt;p&gt;经过多年的实践经验，在不同的公司，我们发现：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;中小企业的IT员工和BAT的员工具有一定的差距。&lt;/li&gt;
+&lt;li&gt;很大部分
+      
+    
+    </summary>
+    
+      <category term="交流" scheme="https://tqzz-edu.github.io/categories/%E4%BA%A4%E6%B5%81/"/>
+    
+      <category term="行业分析" scheme="https://tqzz-edu.github.io/categories/%E4%BA%A4%E6%B5%81/%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="困境" scheme="https://tqzz-edu.github.io/tags/%E5%9B%B0%E5%A2%83/"/>
+    
+      <category term="原因" scheme="https://tqzz-edu.github.io/tags/%E5%8E%9F%E5%9B%A0/"/>
+    
+      <category term="互联网" scheme="https://tqzz-edu.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>入行的困境</title>
     <link href="https://tqzz-edu.github.io/2019/04/27/kunjing/"/>
     <id>https://tqzz-edu.github.io/2019/04/27/kunjing/</id>
     <published>2019-04-27T11:56:48.000Z</published>
-    <updated>2019-04-27T13:01:39.148Z</updated>
+    <updated>2019-04-27T14:09:01.433Z</updated>
     
     <content type="html"><![CDATA[<h1 id="行业情况"><a href="#行业情况" class="headerlink" title="行业情况"></a>行业情况</h1><p>IT 互联网行业发展到至今，其行业情况发生了如下的主要变化：</p><ul><li>业务系统的变化：具有BI的信息系统、移动端、人脸识别、海量访问的系统。</li><li>技术的变化：大数据、微服务、Devops、AI、物联网。</li><li>IT服务的变化：基础IT云、方案咨询。</li><li>传统行业的变化：传统行业借助于移动端、互联网、数据，形成提升效率的信息系统。</li></ul><h1 id="入行者的困境"><a href="#入行者的困境" class="headerlink" title="入行者的困境"></a>入行者的困境</h1><h2 id="互联网从业者"><a href="#互联网从业者" class="headerlink" title="互联网从业者"></a>互联网从业者</h2><p>互联网行业虽然不是一个很高薪的行业，但是也是一个心字较高的行业。因此互联网行业是很多刚毕业的年轻人的选择。据我们多年的经验，有不少年轻人在刚入行的时候，会遇到很大的困境：</p><ul><li>自身技术基础欠缺，导致四处碰壁（迷茫、困惑）。</li><li>想要通过培训来解决困境，但是培训费用高、时间又长。</li><li>面试时缺乏经验，导致面试效果不佳。</li><li>入行时缺少过来人指导，导致未来的几年缺乏目标、浪费时间，等到自己醒悟过来时，又发现时间不等人。</li></ul><h2 id="互联网创业者"><a href="#互联网创业者" class="headerlink" title="互联网创业者"></a>互联网创业者</h2><p>互联网创业存在不确定的因素，因此创业者最佳的方式：”敏捷”创业。敏捷创业要求精简团队组建。</p><p><strong>精简团队组建</strong>：</p><ul><li>不需要资深技术人员、CTO，借助于IT咨询服务去除对资深技术人员、CTO的依赖。</li><li>通过咨询服务，进行团队规划、团队组建。</li><li>通过咨询服务，进行业务IT规划、方案策划。</li><li>通过咨询服务，进行业务系统架构规划、方案实施。</li></ul><h1 id="我们能够为您做什么"><a href="#我们能够为您做什么" class="headerlink" title="我们能够为您做什么"></a>我们能够为您做什么</h1><ul><li>提供切合实际的培训、职业指导。</li><li>基于行业经验，提供高性价比的咨询方案。</li></ul><h1 id="后续"><a href="#后续" class="headerlink" title="后续"></a>后续</h1><p>  未完，我们后续会陆陆续续推出更多的信息。</p>]]></content>
     
@@ -38,10 +72,12 @@
     
       <category term="交流" scheme="https://tqzz-edu.github.io/categories/%E4%BA%A4%E6%B5%81/"/>
     
+      <category term="行业分析" scheme="https://tqzz-edu.github.io/categories/%E4%BA%A4%E6%B5%81/%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90/"/>
     
-      <category term="问题" scheme="https://tqzz-edu.github.io/tags/%E9%97%AE%E9%A2%98/"/>
     
       <category term="互联网" scheme="https://tqzz-edu.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="问题" scheme="https://tqzz-edu.github.io/tags/%E9%97%AE%E9%A2%98/"/>
     
   </entry>
   
