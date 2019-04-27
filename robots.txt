@@ -1,0 +1,2 @@
+Sitemap: https://tqzz-edu.github.io/sitemap.xml
+Sitemap: https://tqzz-edu.github.io/baidusitemap.xml
