@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tqzz-edu.github.io/"/>
-  <updated>2019-04-28T14:52:10.511Z</updated>
+  <updated>2019-04-28T16:10:42.336Z</updated>
   <id>https://tqzz-edu.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BAT公司技术晋升之路</title>
+    <link href="https://tqzz-edu.github.io/2019/04/28/dxgsjszl/"/>
+    <id>https://tqzz-edu.github.io/2019/04/28/dxgsjszl/</id>
+    <published>2019-04-28T15:28:24.000Z</published>
+    <updated>2019-04-28T16:10:42.336Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="序"><a href="#序" class="headerlink" title="序"></a>序</h1><p>在中国，国内顶级互联网公司 BAT、TMD。这些公司都有一套自己的晋升规范，但是大同小异，无非是各个技术人员的打怪升级过程，就拿腾讯的来说：</p><table><thead><tr><th>腾讯级别</th><th>描述</th></tr></thead><tbody><tr><td>T1</td><td>助理工程师</td></tr><tr><td>T2</td><td>工程师</td></tr><tr><td>T3</td><td>高级工程师</td></tr><tr><td>T4</td><td>专家</td></tr><tr><td>T5</td><td>科学家</td></tr><tr><td>T6</td><td>首席科学家</td></tr></tbody></table><h1 id="成长之路"><a href="#成长之路" class="headerlink" title="成长之路"></a>成长之路</h1><p>  由于笔者级别是在T3，所以笔者只能引领大家晋升到T3，后面能否升到T4，就看各位的造诣和机会。</p><h2 id="路线图"><a href="#路线图" class="headerlink" title="路线图"></a>路线图</h2><pre class="mermaid">graph LR    T1.1 -->T1.2    T1.2 -->T1.3    T1.3 -->T2.1    T2.1 -->T2.2    T2.2 -->T2.3    T2.3 -->T3.1    T3.1 -->T3.2    T3.2 -->T3.3</pre><p>大家看到这么漫长的晋级之路，千万不要气馁：小级之内，比较容易升，一般半年升级一次。大级来说就相对比较麻烦，T3 一个坎， T4一个坎。</p><h2 id="大概薪资水平"><a href="#大概薪资水平" class="headerlink" title="大概薪资水平"></a>大概薪资水平</h2><table><thead><tr><th>级别</th><th>级别定义</th><th>薪酬范围</th></tr></thead><tbody><tr><td>T1</td><td>1.1 低端岗位<br>1.2 本科生<br>1.3 研究生</td><td>10K+</td></tr><tr><td>T2</td><td>2.1 博士生<br>2.2 工程师<br>2.3 工程师</td><td>2.1 10K<br>2.2 15K<br>2.3 20K<br>年薪：14W ～ 28W</td></tr><tr><td>T3</td><td>资深工程师</td><td>23K +， 年薪：32W ～ 70W</td></tr><tr><td>T4</td><td>总监以上</td><td>>= 100W, 另外有100万股票期权</td></tr></tbody></table><h2 id="如何成为优秀的T1-学习"><a href="#如何成为优秀的T1-学习" class="headerlink" title="如何成为优秀的T1 - 学习"></a>如何成为优秀的T1 - 学习</h2><table><thead><tr><th>基础知识</th><th>系统设计</th><th>工作方法</th></tr></thead><tbody><tr><td>xx 编程思想、基础</td><td>进程模块划分</td><td>项目管理</td></tr><tr><td>xx 多线程、并发</td><td>核心数据结构</td><td>研发流程</td></tr><tr><td>Effective xx</td><td>典型业务流程</td><td>时间管理</td></tr><tr><td>Mysql</td><td>UML</td></tr></tbody></table><h2 id="如何成为优秀的T1-实践"><a href="#如何成为优秀的T1-实践" class="headerlink" title="如何成为优秀的T1 - 实践"></a>如何成为优秀的T1 - 实践</h2><table><thead><tr><th>编码质量</th><th>学以致用</th><th>权衡设计</th></tr></thead><tbody><tr><td>遵循编码规范</td><td>编码</td><td>掌握现有模块设计和实现</td></tr><tr><td>使用规范工具</td><td>调试</td><td>思考不合理和合理的地方</td></tr><tr><td>斟酌代码</td><td>运维</td><td>重构思路</td></tr><tr><td></td><td>解决问题</td></tr></tbody></table><h2 id="如何从T2到T3-—学习"><a href="#如何从T2到T3-—学习" class="headerlink" title="如何从T2到T3 —学习"></a>如何从T2到T3 —学习</h2><table><thead><tr><th>书籍</th><th>系统设计</th><th>工作方法</th></tr></thead><tbody><tr><td>《高效能人士的七个习惯》</td><td>可靠性设计</td><td>方法论建设</td></tr><tr><td>《大型分布式网站架构设计与实践》</td><td>通用性设计</td><td>总结、分享</td></tr><tr><td><strong>&lt;&lt;</strong>分布式系统：概念与设计<strong>&gt;&gt;</strong></td><td>安全性设计</td><td></td></tr><tr><td><strong>&lt;&lt;</strong>操作系统——精髓与设计原理<strong>&gt;&gt;</strong></td><td>高性能设计</td><td></td></tr><tr><td>&lt;&lt;应用密码学&gt;&gt;</td><td>容灾设计</td></tr></tbody></table><h2 id="如何从T2-到T3-—实践"><a href="#如何从T2-到T3-—实践" class="headerlink" title="如何从T2 到T3 —实践"></a>如何从T2 到T3 —实践</h2><table><thead><tr><th>逐步负责</th><th>让人放心</th><th>能力</th></tr></thead><tbody><tr><td>各种Server 设计</td><td>精通自己设计的系统</td><td>技术全局观和部门内的技术影响力</td></tr><tr><td>通信模型、协议设计</td><td>自信、担当</td><td>独立/带领团队解决疑难问题，锻炼问题分析与解决的能力</td></tr><tr><td>熟悉各类机型、硬件性能指标、适用场景</td><td>尝试掌控</td><td>带领项目，锻炼项目管理能力</td></tr><tr><td>端到端的系统设计及实现，从业务需求到资源准备</td><td></td></tr></tbody></table><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p> 如何获得成长：</p><ul><li>学习（培训）获得机会，进入好的平台（前置条件）。</li><li>在好的平台中，在实践中成长（70%）。</li><li>自学（20%）</li><li>培训 （10%）</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;序&quot;&gt;&lt;a href=&quot;#序&quot; class=&quot;headerlink&quot; title=&quot;序&quot;&gt;&lt;/a&gt;序&lt;/h1&gt;&lt;p&gt;在中国，国内顶级互联网公司 BAT、TMD。这些公司都有一套自己的晋升规范，但是大同小异，无非是各个技术人员的打怪升级过程，就拿腾讯的来说：&lt;/p&gt;
+      
+    
+    </summary>
+    
+      <category term="交流" scheme="https://tqzz-edu.github.io/categories/%E4%BA%A4%E6%B5%81/"/>
+    
+      <category term="职业规划" scheme="https://tqzz-edu.github.io/categories/%E4%BA%A4%E6%B5%81/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/"/>
+    
+    
+      <category term="技术晋升" scheme="https://tqzz-edu.github.io/tags/%E6%8A%80%E6%9C%AF%E6%99%8B%E5%8D%87/"/>
+    
+      <category term="职业成长" scheme="https://tqzz-edu.github.io/tags/%E8%81%8C%E4%B8%9A%E6%88%90%E9%95%BF/"/>
+    
+  </entry>
   
   <entry>
     <title>陷入困境中行业人员特征</title>
