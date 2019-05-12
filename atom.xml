@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tqzzedu.com/"/>
-  <updated>2019-04-28T16:10:42.336Z</updated>
+  <updated>2019-05-12T03:09:27.355Z</updated>
   <id>https://tqzzedu.com/</id>
   
   <author>
@@ -15,6 +15,49 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>天勤JavaEE培训大纲</title>
+    <link href="https://tqzzedu.com/2019/05/12/pxdg/"/>
+    <id>https://tqzzedu.com/2019/05/12/pxdg/</id>
+    <published>2019-05-12T01:48:36.000Z</published>
+    <updated>2019-05-12T03:09:27.355Z</updated>
+    
+    <content type="html"><![CDATA[<table><thead><tr><th>科目</th><th>主讲内容</th><th>目标</th><th>适合人群</th></tr></thead><tbody><tr><td>Java基础</td><td>1、基础语法<br>2、面向对象<br>3、多线程<br>4、I\O 流及网络编程<br>5、异常体系及处理<br>6、数据结构与算法<br>7、常用API及工具<br>8、Lambda 表达式<br>9、SSM培训<br>10、IOC及AOP<br>11、UML培训<br>12、MySQL 与Redis培训<br>13、工具培训(eclipse\git)</td><td>胜任Java初级工程师</td><td>0基础</td></tr><tr><td>项目管理培训</td><td>1、项目流程管理（BAT、华为项目流程介绍）<br>2、时间管理<br>3、工具篇</td><td>1、具备项目管理、推动能力</td><td>适合工作1～3年</td></tr><tr><td>Java深入篇</td><td>1、深入Java多线程编程<br>2、高效Java<br>3、JVM原理<br>4、深入IOC及AOP<br>5、Spring事务</td><td>1、技术提升<br>2、T3及T4的基础技能</td><td>适合工作1～3年</td></tr><tr><td>问题定位培训</td><td>1、线上问题定位培训<br>2、服务监控指导<br>3、常用的工作指导</td><td>1、成为中级工程师的条件之一</td><td>适合工作1～3年</td></tr><tr><td>面试辅导</td><td>1、面试技巧辅导<br>2、简历书写指导<br>3、公司职位分析<br>4、职业规划指导</td><td>面试指导</td><td>适合工作1～3年<br>（刚毕业的也适合）</td></tr><tr><td>互联项目实战</td><td>1、典型问题及解决方法<br>2、工具篇<br>3、具体实战项目</td><td>1、具备Java中级工程师<br>2、能力提升</td><td>适合工作1～3年</td></tr><tr><td>架构理论班</td><td>1、操作系统理论<br>2、分布式系统设计<br>3、软件架构课程<br>4、领域驱动设计</td><td>1、具备软件架构的基本职能</td><td>适合工作3～4年</td></tr><tr><td>架构实战</td><td>1、架构方案指导<br>2、架构评估指导<br>3、架构能力估算</td><td>根据具体的项目，进行架构方案设计、方案评估、架构能力评估</td><td>适合工作3～4年</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;科目&lt;/th&gt;
+&lt;th&gt;主讲内容&lt;/th&gt;
+&lt;th&gt;目标&lt;/th&gt;
+&lt;th&gt;适合人群&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Java基础&lt;/td&gt;
+&lt;td&gt;1、基础语法&lt;br&gt;2、面向对象&lt;br
+      
+    
+    </summary>
+    
+      <category term="交流" scheme="https://tqzzedu.com/categories/%E4%BA%A4%E6%B5%81/"/>
+    
+      <category term="行业分析" scheme="https://tqzzedu.com/categories/%E4%BA%A4%E6%B5%81/%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="互联网" scheme="https://tqzzedu.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="JavaEE" scheme="https://tqzzedu.com/tags/JavaEE/"/>
+    
+      <category term="培训" scheme="https://tqzzedu.com/tags/%E5%9F%B9%E8%AE%AD/"/>
+    
+  </entry>
   
   <entry>
     <title>BAT公司技术晋升之路</title>
