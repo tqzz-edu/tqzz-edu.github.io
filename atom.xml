@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tqzzedu.com/"/>
-  <updated>2019-05-12T03:09:27.355Z</updated>
+  <updated>2019-05-12T03:51:18.503Z</updated>
   <id>https://tqzzedu.com/</id>
   
   <author>
@@ -21,27 +21,21 @@
     <link href="https://tqzzedu.com/2019/05/12/pxdg/"/>
     <id>https://tqzzedu.com/2019/05/12/pxdg/</id>
     <published>2019-05-12T01:48:36.000Z</published>
-    <updated>2019-05-12T03:09:27.355Z</updated>
+    <updated>2019-05-12T03:51:18.503Z</updated>
     
-    <content type="html"><![CDATA[<table><thead><tr><th>科目</th><th>主讲内容</th><th>目标</th><th>适合人群</th></tr></thead><tbody><tr><td>Java基础</td><td>1、基础语法<br>2、面向对象<br>3、多线程<br>4、I\O 流及网络编程<br>5、异常体系及处理<br>6、数据结构与算法<br>7、常用API及工具<br>8、Lambda 表达式<br>9、SSM培训<br>10、IOC及AOP<br>11、UML培训<br>12、MySQL 与Redis培训<br>13、工具培训(eclipse\git)</td><td>胜任Java初级工程师</td><td>0基础</td></tr><tr><td>项目管理培训</td><td>1、项目流程管理（BAT、华为项目流程介绍）<br>2、时间管理<br>3、工具篇</td><td>1、具备项目管理、推动能力</td><td>适合工作1～3年</td></tr><tr><td>Java深入篇</td><td>1、深入Java多线程编程<br>2、高效Java<br>3、JVM原理<br>4、深入IOC及AOP<br>5、Spring事务</td><td>1、技术提升<br>2、T3及T4的基础技能</td><td>适合工作1～3年</td></tr><tr><td>问题定位培训</td><td>1、线上问题定位培训<br>2、服务监控指导<br>3、常用的工作指导</td><td>1、成为中级工程师的条件之一</td><td>适合工作1～3年</td></tr><tr><td>面试辅导</td><td>1、面试技巧辅导<br>2、简历书写指导<br>3、公司职位分析<br>4、职业规划指导</td><td>面试指导</td><td>适合工作1～3年<br>（刚毕业的也适合）</td></tr><tr><td>互联项目实战</td><td>1、典型问题及解决方法<br>2、工具篇<br>3、具体实战项目</td><td>1、具备Java中级工程师<br>2、能力提升</td><td>适合工作1～3年</td></tr><tr><td>架构理论班</td><td>1、操作系统理论<br>2、分布式系统设计<br>3、软件架构课程<br>4、领域驱动设计</td><td>1、具备软件架构的基本职能</td><td>适合工作3～4年</td></tr><tr><td>架构实战</td><td>1、架构方案指导<br>2、架构评估指导<br>3、架构能力估算</td><td>根据具体的项目，进行架构方案设计、方案评估、架构能力评估</td><td>适合工作3～4年</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<h1 id="培训大纲"><a href="#培训大纲" class="headerlink" title="培训大纲"></a>培训大纲</h1><table><thead><tr><th>科目</th><th>主讲内容</th><th>目标</th><th>课时</th><th>适合人群</th></tr></thead><tbody><tr><td>Java基础</td><td>1、基础语法<br>2、面向对象<br>3、多线程<br>4、I\O 流及网络编程<br>5、异常体系及处理<br>6、数据结构与算法<br>7、常用API及工具<br>8、Lambda 表达式<br>9、SSM培训<br>10、IOC及AOP<br>11、UML培训<br>12、MySQL 与Redis培训<br>13、工具培训(eclipse\git)</td><td>胜任Java初级工程师</td><td>10天</td><td>0基础</td></tr><tr><td>项目管理培训</td><td>1、项目流程管理（BAT、华为项目流程介绍）<br>2、时间管理<br>3、工具篇</td><td>具备项目管理、推动能力</td><td>5天</td><td>适合工作1～3年</td></tr><tr><td>Java深入篇</td><td>1、深入Java多线程编程<br>2、高效Java<br>3、JVM原理<br>4、深入IOC及AOP<br>5、Spring事务</td><td>1、技术提升<br>2、T3及T4的基础技能</td><td>5天</td><td>适合工作1～3年</td></tr><tr><td>Java模块设计</td><td>1、设计模式<br>2、Java模块设计</td><td>技术提升</td><td>5天</td><td>适合工作1～3年</td></tr><tr><td>问题定位培训</td><td>1、线上问题定位培训<br>2、服务监控指导<br>3、常用的工作指导</td><td>线上问题定位能力提升</td><td>5天</td><td>适合工作1～3年</td></tr><tr><td>面试辅导</td><td>1、面试技巧辅导<br>2、简历书写指导<br>3、公司职位分析<br>4、职业规划指导</td><td>面试指导</td><td>1天</td><td>适合工作1～3年<br>（刚毕业的也适合）</td></tr><tr><td>互联项目实战</td><td>1、典型问题及解决方法<br>2、工具篇<br>3、具体实战项目</td><td>1、具备Java中级工程师<br>2、能力提升</td><td>10天</td><td>适合工作1～3年</td></tr><tr><td>架构理论班</td><td>1、操作系统理论<br>2、分布式系统设计<br>3、软件架构课程<br>4、领域驱动设计</td><td>1、具备软件架构的基本职能</td><td>10天</td><td>适合工作3～4年</td></tr><tr><td>架构实战</td><td>1、架构方案指导<br>2、架构评估指导<br>3、架构能力估算</td><td>根据具体的项目，进行架构方案设计、方案评估、架构能力评估</td><td>10天</td><td>适合工作3～4年</td></tr></tbody></table><h1 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h1><ul><li>每天培训3个小时</li><li>课外答疑</li><li>Java基础培训是入门级的。</li><li>后面的课程是为高级工程师做准备的，但是学员可以根据自己的情况进行选择，因为本培训的宗旨就是节省大家的时间、成本。</li></ul><h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><ul><li>邮件：<a href="mailto:tianqinzhizhi@aliyun.com" target="_blank" rel="noopener">tianqinzhizhi@aliyun.com</a></li><li>QQ： 2639719939</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;table&gt;
+        &lt;h1 id=&quot;培训大纲&quot;&gt;&lt;a href=&quot;#培训大纲&quot; class=&quot;headerlink&quot; title=&quot;培训大纲&quot;&gt;&lt;/a&gt;培训大纲&lt;/h1&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;科目&lt;/th&gt;
 &lt;th&gt;主讲内容&lt;/th&gt;
 &lt;th&gt;目标&lt;/th&gt;
-&lt;th&gt;适合人群&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Java基础&lt;/td&gt;
-&lt;td&gt;1、基础语法&lt;br&gt;2、面向对象&lt;br
+&lt;th&gt;课时
       
     
     </summary>
