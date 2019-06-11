@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tqzzedu.com/"/>
-  <updated>2019-06-11T15:06:45.197Z</updated>
+  <updated>2019-06-11T15:21:14.605Z</updated>
   <id>https://tqzzedu.com/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java 21天由菜鸟到老鸟</title>
+    <link href="https://tqzzedu.com/2019/06/11/java21t/"/>
+    <id>https://tqzzedu.com/2019/06/11/java21t/</id>
+    <published>2019-06-11T15:14:15.000Z</published>
+    <updated>2019-06-11T15:21:14.605Z</updated>
+    
+    <content type="html"><![CDATA[<p>【重要信息】</p><p>   天勤培训，终于有了匹配课程，各位可以同步学习。</p><ol><li>课程大纲：<a href="https://tqzzedu.com/2019/05/12/pxdg/#more">https://tqzzedu.com/2019/05/12/pxdg/#more</a></li><li>教材：<a href="https://github.com/tqzz-edu/Java.Tutorial" target="_blank" rel="noopener">https://github.com/tqzz-edu/Java.Tutorial</a></li><li>参考代码：<a href="https://github.com/tqzz-edu/edu" target="_blank" rel="noopener">https://github.com/tqzz-edu/edu</a></li><li>教材打开正确方式：请下载 Typora，<a href="https://www.typora.io/" target="_blank" rel="noopener">https://www.typora.io/</a></li></ol><p>有兴趣的朋友，可以直接在网页打开教材，也可以下载下来，采用typora开。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;【重要信息】&lt;/p&gt;
+&lt;p&gt;   天勤培训，终于有了匹配课程，各位可以同步学习。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;课程大纲：&lt;a href=&quot;https://tqzzedu.com/2019/05/12/pxdg/#more&quot;&gt;https://tqzzedu.com/2019/0
+      
+    
+    </summary>
+    
+      <category term="培训" scheme="https://tqzzedu.com/categories/%E5%9F%B9%E8%AE%AD/"/>
+    
+    
+      <category term="互联网" scheme="https://tqzzedu.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="JavaEE" scheme="https://tqzzedu.com/tags/JavaEE/"/>
+    
+      <category term="培训" scheme="https://tqzzedu.com/tags/%E5%9F%B9%E8%AE%AD/"/>
+    
+  </entry>
   
   <entry>
     <title>如何写&quot;性感&quot;的简历</title>
@@ -139,11 +171,11 @@
       <category term="行业分析" scheme="https://tqzzedu.com/categories/%E4%BA%A4%E6%B5%81/%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90/"/>
     
     
+      <category term="互联网" scheme="https://tqzzedu.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
       <category term="困境" scheme="https://tqzzedu.com/tags/%E5%9B%B0%E5%A2%83/"/>
     
       <category term="原因" scheme="https://tqzzedu.com/tags/%E5%8E%9F%E5%9B%A0/"/>
-    
-      <category term="互联网" scheme="https://tqzzedu.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
@@ -172,9 +204,9 @@
       <category term="行业分析" scheme="https://tqzzedu.com/categories/%E4%BA%A4%E6%B5%81/%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="互联网" scheme="https://tqzzedu.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
-    
       <category term="问题" scheme="https://tqzzedu.com/tags/%E9%97%AE%E9%A2%98/"/>
+    
+      <category term="互联网" scheme="https://tqzzedu.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
